@@ -16,8 +16,6 @@ The Load Balancer distributes incoming user traffic across multiple servers to e
 Users → Application Load Balancer → EC2 Server-1 + EC2 Server-2
 ↘ Health Checks ↙
 
-yaml
-Copy code
 
 ---
 
@@ -73,8 +71,7 @@ AWS-LoadBalancer-WebApp/
 ├── index-server2.html
 └── Screenshots/
 
-yaml
-Copy code
+
 
 ---
 
